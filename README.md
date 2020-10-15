@@ -12,4 +12,4 @@ Google Drive：https://drive.google.com/drive/folders/17gM07W_GDXoh8UQBdxaKVNSAK
 
 ### Hint
 Because of privacy reason (Article unpublished), the code is not shown here. 
-Here presents the final software and some pictures of it.
+Here presents some pictures of the final software. Feel free to download the software in Google Drive and test it.
