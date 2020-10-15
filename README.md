@@ -8,3 +8,8 @@ Including several disease datasets, e.g. COVID-19, melanoma, Diabetic Rectinopat
 
 ### More details
 Google Drive：https://drive.google.com/drive/folders/17gM07W_GDXoh8UQBdxaKVNSAKfkUi5pZ?usp=sharing.
+
+
+### Hint
+Because of privacy reason (Article unpublished), the code is not shown here. 
+Here presents the final software and some pictures of it.
